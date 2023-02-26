@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@angular/material":"5.0.0",
-    "@openzeppelin/contracts":"4.1.0"
+    "@openzeppelin/contracts":"4.1.0",
+    "angular":"0.0.1"
   }
 }
